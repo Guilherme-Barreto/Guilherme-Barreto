@@ -10,4 +10,3 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
 </div>
-![snake gif](https://github.com/Guilherme-Barreto/Guilherme-Barreto/blob/output/github-contribution-grid-snake.gif)
