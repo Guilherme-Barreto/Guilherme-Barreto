@@ -9,3 +9,7 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
+
+<div align="center">
+  <img src="https://media.tenor.com/pZoT57d47lYAAAAM/hanako-kun-toilet-bound-hanako-kun-characters.gif">
+</div>
