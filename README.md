@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/pZoT57d47lYAAAAM/hanako-kun-toilet-bound-hanako-kun-characters.gif">
+  <img src="https://media.tenor.com/pZoT57d47lYAAAAM/hanako-kun-toilet-bound-hanako-kun-characters.gif" height="180em">
 </div>
